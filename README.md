@@ -1,4 +1,4 @@
-![banner](https://media.licdn.com/dms/image/D4D16AQExbunbIvieTg/profile-displaybackgroundimage-shrink_350_1400/0/1681100497908?e=1695254400&v=beta&t=_yH3aS_g2uqwd63BvIH3Xhx0pVqkRuyKMXfRlbUVaJA)
+![banner](https://github.com/danielmontefusco13/git/blob/main/3964906.jpg)
 
 ### Hi there 👋
 
