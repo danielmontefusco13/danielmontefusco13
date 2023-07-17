@@ -1,4 +1,4 @@
-![banner](https://github.com/danielmontefusco13/git/blob/main/banner_frontend.jpg)
+![banner](https://github.com/danielmontefusco13/git/blob/main/bannerfront_end.jpg)
 
 ### Hi there 👋
 
