@@ -1,4 +1,4 @@
-![banner](https://github.com/danielmontefusco13/git/blob/main/bannerfront_end.jpg)
+![banner](https://github.com/danielmontefusco13/git/blob/main/Linkedin%20Plano%20de%20Fundo.png)
 
 ### Hi there 👋
 
